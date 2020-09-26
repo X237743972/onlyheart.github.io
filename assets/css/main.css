@@ -2627,7 +2627,7 @@ input, select, textarea {
 		}
 
 			ul.icons li:last-child {
-				padding-right: 0 !important;
+				
 			}
 
 /* Section/Article */
@@ -3691,7 +3691,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		padding: 5em 5em 3em 5em ;
+		padding: 3m 3m 1m 3m ;
 		width: calc(100% + 2em);
 		margin: 0 0 3em -2em;
 	}
@@ -3708,10 +3708,16 @@ input, select, textarea {
 			text-align: center;
 		}
 
+        #footer .callme {
+	    font-size: 28px;
+		text-align: center;
+		display: inline-block;		
+		}
+		
 		@media screen and (max-width: 1280px) {
 
 			#footer {
-				padding: 4em 4em 2em 4em ;
+				padding: 4em 4ea 2em 4em ;
 			}
 
 		}
